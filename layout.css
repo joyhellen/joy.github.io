@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+}
+.container{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+.boxone{
+    margin-left: 20px;
+    float: left;
+}
+.boxtwo{
+    margin-left: 20px;
+    float: left;
+}
+.btnbuy{
+    background-color: indianred;
+    padding: 10px 12px 10px 12px;
+    color: black;
+}
+.btnbuy a{
+    color: black;
+    font-family: cursive;
+    text-decoration: none;
+    font-size: medium;
+}
